@@ -1,10 +1,7 @@
 package org.ideaedu
 
-import idea.data.rest.*
-import java.util.*
 import groovyx.net.http.RESTClient
 import groovyx.net.http.ContentType
-import groovy.json.JsonBuilder
 
 /**
  * The Main class provides a way to pull IDEA Feedback System data from the
